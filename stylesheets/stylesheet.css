@@ -526,6 +526,18 @@ a.button {
   line-height: 1.2;
   color: #fff;
 }
+
+a.button1 {
+  width: 134px;
+  height: 58px;
+  padding-top: 1px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+
 a.button small {
   display: block;
   font-size: 11px;
@@ -535,6 +547,14 @@ header a.button {
   top: 0;
   right: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
+}
+
+header a.button1 {
+  position: absolute;
+  top: 100px;
+  right: 0;
+  background: transparent url(../images/twitter2.jpg) 0 0 no-repeat;
+  background-size: 60px;
 }
 aside a.button {
   display: block;
